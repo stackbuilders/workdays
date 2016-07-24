@@ -1,0 +1,3 @@
+:set -XOverloadedLists
+
+import Data.Set (Set)
