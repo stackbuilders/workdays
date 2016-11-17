@@ -9,8 +9,8 @@ bug-reports: https://github.com/stackbuilders/workdays/issues
 
 license: MIT
 license-file: LICENSE.md
-author: Juan Pedro Villa Isaza <jvilla@stackbuilders.com>
-maintainer: Juan Pedro Villa Isaza <jvilla@stackbuilders.com>
+author: Juan Pedro Villa Isaza
+maintainer: hackage@stackbuilders.com
 copyright: 2016 Stack Builders
 
 category: Time
